@@ -4,6 +4,7 @@ import csv
 # Dati di produzione cumulativa mensili in kWh per un impianto di 5kW posto a Salerno
 prod_mensili = [235, 293, 466, 595, 772, 864, 933, 811, 588, 435, 262, 208]
 
+#test
 giorni_mensili = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
 
 # Calcolo della produzione giornaliera in kWh, in questo modo abbiamo la produzione totale media di un giorno per ogni mese dell'anno
